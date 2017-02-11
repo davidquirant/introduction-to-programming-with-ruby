@@ -1,1 +1,1 @@
-Introduction to programming with Ruby exercices
+Introduction to programming with Ruby exercises
